@@ -8,4 +8,7 @@ HAVEN Implemented this on 28/10/2023
 主要工作是将课程中提供的代码进行了复现。
 
 内容截至目前包含：
-- 基于LeNet5的MNIST手写数字识别。
+- 基于MindSpore的手写体识别；
+- 基于MindSpore的目标检测(YOLOv3)；
+- MNIST手写体识别-CANN推理；
+- 基于MindX SDK开发目标检测应用。
